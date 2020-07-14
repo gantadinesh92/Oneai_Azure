@@ -1,0 +1,14 @@
+,Column,Value,Predicted_Values,Confidence_Score
+0,site_type,DC,site_type,38.23
+1,site_name,2427,site_name,41.79
+2,site_description,EXP MRF Luxembourg Global Holdi,site_description,98.56
+3,site_owner_name,MRF,site_owner_name,51.39
+4,latitude,49.60958862,latitude,66.17
+5,longitude,6.12969017,zipcode,49.63
+6,city,Luxembourg,city,33.46
+11,region_hierarchyl1,Luxembourg,city,33.46
+7,state,TX,state,41.09
+8,zipcode,75252,sum_Order_Amount,24.29
+9,country,LUX,country,45.47
+14,region_hierarchyl4,LUX,country,45.47
+10,creation_date,9/11/2019 17:01,creation_date,98.96

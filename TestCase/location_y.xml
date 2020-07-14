@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location:locationMessage xmlns:location="urn:jda:master:location:xsd:3" xmlns:sh="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:jda:master:location:xsd:3 ../Schemas/jda/master/Location.xsd">
+	<location>
+		<basicLocation>
+			<locationName>DC HK</locationName>
+			<salesorder>
+				<supplier_item_name>1200710</supplier_item_name>
+				<ship_to_site_name>10119636</ship_to_site_name>
+				<ship_from_site_name>5300</ship_from_site_name>
+				<state>Closed</state>
+				<exception_status>On Time</exception_status>
+				<sum_order_quantity>1</sum_order_quantity>
+				<sum_order_amount>0</sum_order_amount>
+				<need_by_date>Monday, December 30, 2019</need_by_date>
+			</salesorder>
+			<address>
+				<site_type>DC</site_type>
+				<city>Hong Kong</city>
+				<countryCode>LUX</countryCode>
+				<site_name>2427</site_name>
+				<site_description>EXP MRF Luxembourg Global Holdi</site_description>
+				<postalCode>74708</postalCode>
+				<site_owner_name>MRF</site_owner_name>
+				<region_hierarchy1>hong kond luxem</region_hierarchy1>
+				<region_hierarchy2/>
+				<region_hierarchy3/>
+				<region_hierarchy4>LUX 4</region_hierarchy4>
+				<region_hierarchy5/>
+				<state>AR</state>
+				<streetAddressOne>15059 N</streetAddressOne>
+				<streetAddressTwo>Suite 400</streetAddressTwo>
+				<geographicalCoordinates>
+					<latitude>22.28552</latitude>
+					<longitude>114.15769</longitude>
+				</geographicalCoordinates>
+				<email>dinesh.venkata@jda.com</email>
+			</address>
+		</basicLocation>
+	</location>
+</location:locationMessage>

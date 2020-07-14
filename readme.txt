@@ -1,0 +1,1 @@
+https://saleswarp.zendesk.com/hc/en-us/articles/210895603-Product-Locations-Import

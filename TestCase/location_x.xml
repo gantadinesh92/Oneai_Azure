@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<location:locationMessage xmlns:location="urn:jda:master:location:xsd:3" xmlns:sh="http://www.unece.org/cefact/namespaces/StandardBusinessDocumentHeader" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:jda:master:location:xsd:3 ../Schemas/jda/master/Location.xsd">
+	<sh:StandardBusinessDocumentHeader>
+		<sh:HeaderVersion>1.0</sh:HeaderVersion>
+		<sh:Sender>
+			<sh:Identifier Authority="ENTERPRISE">HOST.GLOBAL</sh:Identifier>
+		</sh:Sender>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">RETAIME.GLOBAL</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">SO.GLOBAL</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">SCPO.GLOBAL</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">TMS.GLOBAL</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">CATMAN.GLOBAL</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">LOC.DC0001</sh:Identifier>
+		</sh:Receiver>
+		<sh:Receiver>
+			<sh:Identifier Authority="ENTERPRISE">LOC.DC0002</sh:Identifier>
+		</sh:Receiver>
+		<sh:DocumentIdentification>
+			<sh:Standard>GS1</sh:Standard>
+			<sh:TypeVersion>3.2</sh:TypeVersion>
+			<sh:InstanceIdentifier>2015051210103163699142907</sh:InstanceIdentifier>
+			<sh:Type>location</sh:Type>
+			<sh:CreationDateAndTime>2015-05-12T14:29:07.520Z</sh:CreationDateAndTime>
+		</sh:DocumentIdentification>
+		<sh:BusinessScope>
+			<sh:Scope>
+				<sh:Type>SCHEMA_GUIDE</sh:Type>
+				<sh:InstanceIdentifier>GS1 3.2,GS1_JDA 2017.1.0</sh:InstanceIdentifier>
+				<sh:Identifier>locationMessage 1.0.0</sh:Identifier>
+			</sh:Scope>
+		</sh:BusinessScope>
+	</sh:StandardBusinessDocumentHeader>
+	<location>
+		<locationIdentification>
+			<entityIdentification>NEW_LOCATION07</entityIdentification>
+		</locationIdentification>
+		<basicLocation>
+			<locationName>DC HK</locationName>
+			<address>
+				<city>Hong Kong</city>
+				<countryCode>HKG</countryCode>
+				<languageOfThePartyCode>en</languageOfThePartyCode>
+				<name>3141</name>
+				<postalCode>74708</postalCode>
+				<state>AR</state>
+				<streetAddressOne>15059 N</streetAddressOne>
+				<streetAddressTwo>Suite 400</streetAddressTwo>
+				<geographicalCoordinates>
+					<latitude>22.28552</latitude>
+					<longitude>114.15769</longitude>
+				</geographicalCoordinates>
+				<communicationValue>dinesh.venkata@jda.com</communicationValue>
+			</address>
+			</basicLocation>
+	</location>
+</location:locationMessage>

@@ -1,0 +1,500 @@
+customer_item_name,ship_to_site_name,ship_from_site_name,state,exception_status,sum_Order_Qty,sum_Open_Qty,sum_Order Amount,sum_Open_Order_Amt,need_by_date,email
+1000010,1000,1000738,Confirmed,On Time,1,1,255.18,255.18,"Friday, October 4, 2019",dinesh.ganta@jda.com
+1000010,1001,1000738,Confirmed,On Time,1,1,255.18,255.18,"Friday, January 10, 2020",jam.adm@jda.com
+100008747,1002,1000738,Confirmed,On Time,1,1,98.33,98.33,"Friday, October 4, 2019",adam.jill@jda.com
+100009277,1003,1000738,Confirmed,On Time,1,1,1994.67,1994.67,"Tuesday, September 24, 2019",dinesh.venkata@jda.com
+100011777,1004,1000738,Confirmed,On Time,1,1,76.6,76.6,"Tuesday, January 7, 2020",shimha.ganta@jda.com
+100011786,1005,1000738,Confirmed,On Time,1,1,278.51,278.51,"Monday, February 10, 2020",king.lot@jda.com
+1000129,1006,1000738,Confirmed,On Time,1,1,83.46,83.46,"Friday, February 7, 2020",what.even@jda.com
+1000129,1007,1000738,Confirmed,Delayed,1,1,83.46,83.46,"Monday, March 2, 2020",dinesh.ganta@jda.com
+1000132,1008,1000738,Confirmed,Delayed,1,1,86.55,86.55,"Friday, December 6, 2019",jam.adm@jda.com
+100013294,1009,1000738,Confirmed,Delayed,1,1,75.21,75.21,"Tuesday, December 17, 2019",adam.jill@jda.com
+100013294,1010,1000738,Confirmed,Delayed,1,1,75.21,75.21,"Thursday, January 23, 2020",dinesh.venkata@jda.com
+1000134,1011,1000738,Open,Delayed,1,1,84.95,84.95,"Wednesday, August 7, 2019",shimha.ganta@jda.com
+1000147,1012,1000738,Open,Delayed,1,1,100.63,100.63,"Friday, November 29, 2019",king.lot@jda.com
+100014773,1013,1000738,Open,Delayed,1,1,8.25,8.25,"Friday, November 29, 2019",what.even@jda.com
+100014773,1014,1000738,Open,Delayed,1,1,8.25,8.25,"Monday, December 9, 2019",dinesh.ganta@jda.com
+100014773,1015,1000738,Open,Delayed,1,1,8.25,8.25,"Friday, January 10, 2020",jam.adm@jda.com
+1000152,1016,1000738,Open,Delayed,1,1,183.53,183.53,"Friday, January 31, 2020",adam.jill@jda.com
+100015587,1017,1000738,Open,Delayed,1,1,688.43,688.43,"Tuesday, September 24, 2019",dinesh.venkata@jda.com
+100015587,1018,1000738,Open,Delayed,1,1,688.43,688.43,"Friday, January 31, 2020",shimha.ganta@jda.com
+100017801,1019,1000738,Open,Delayed,1,1,334.15,334.15,"Friday, February 21, 2020",king.lot@jda.com
+100017801,1020,1000738,Open,Delayed,1,1,208.17,208.17,"Wednesday, March 11, 2020",what.even@jda.com
+100017802,1021,1000738,Open,Delayed,1,1,1933.2,1933.2,"Friday, January 17, 2020",dinesh.ganta@jda.com
+100017802,1022,1000738,Open,Delayed,1,1,1933.2,1933.2,"Friday, January 31, 2020",jam.adm@jda.com
+100017925,1023,1000738,Open,Delayed,1,1,7.1,7.1,"Friday, October 11, 2019",adam.jill@jda.com
+100017925,1024,1000738,Open,Delayed,1,1,7.1,7.1,"Friday, January 24, 2020",dinesh.venkata@jda.com
+100017926,1025,1000738,Open,Delayed,1,1,517.45,517.45,"Monday, December 2, 2019",shimha.ganta@jda.com
+100017926,1026,1000738,Open,Delayed,1,1,517.45,517.45,"Tuesday, December 17, 2019",king.lot@jda.com
+100017927,1027,1000738,Open,Delayed,1,1,25.1,25.1,"Friday, November 15, 2019",what.even@jda.com
+100017927,1028,1000738,Open,Delayed,1,1,25.1,25.1,"Friday, November 29, 2019",dinesh.ganta@jda.com
+100017933,1029,1000738,Open,Delayed,1,1,354.85,354.85,"Tuesday, September 24, 2019",jam.adm@jda.com
+100017935,1030,1000738,Open,Delayed,1,1,74.1,74.1,"Monday, February 10, 2020",adam.jill@jda.com
+100018019,1031,1000738,Open,Delayed,1,1,221.28,221.28,"Tuesday, November 19, 2019",dinesh.venkata@jda.com
+100018736,1032,1000738,Open,Delayed,1,1,147.35,147.35,"Monday, December 9, 2019",shimha.ganta@jda.com
+100018736,1000,1000738,Open,Delayed,1,1,147.35,147.35,"Wednesday, February 5, 2020",king.lot@jda.com
+100018737,1000,1000738,Open,Delayed,1,1,147.35,147.35,"Monday, December 9, 2019",what.even@jda.com
+100018737,1000,1000738,Open,Delayed,1,1,147.35,147.35,"Wednesday, February 5, 2020",dinesh.ganta@jda.com
+100018738,1000,1000738,Open,Delayed,1,1,87.72,87.72,"Monday, December 9, 2019",jam.adm@jda.com
+100018738,1000,1000738,Open,Delayed,1,1,83.59,83.59,"Wednesday, February 5, 2020",adam.jill@jda.com
+100018739,1000,1000738,Open,On Time,1,1,111.09,111.09,"Thursday, January 2, 2020",dinesh.venkata@jda.com
+100018739,1000,1000738,Open,On Time,1,1,116.94,116.94,"Wednesday, February 5, 2020",shimha.ganta@jda.com
+100018801,1000,1000738,Open,On Time,1,1,117.69,117.69,"Thursday, January 2, 2020",king.lot@jda.com
+100018801,1000,1000738,Open,On Time,1,1,117.69,117.69,"Wednesday, February 5, 2020",what.even@jda.com
+100018802,1000,1000738,Open,On Time,1,1,127.67,127.67,"Thursday, January 2, 2020",dinesh.ganta@jda.com
+100018802,1000,1000738,Open,On Time,1,1,127.67,127.67,"Wednesday, February 5, 2020",jam.adm@jda.com
+100018803,1000,1000738,Open,On Time,1,1,117.69,117.69,"Thursday, January 2, 2020",adam.jill@jda.com
+100018803,1000,1000738,Open,On Time,1,1,117.69,117.69,"Monday, February 17, 2020",dinesh.venkata@jda.com
+100018804,1000,1000738,Open,On Time,1,1,236.81,236.81,"Friday, August 30, 2019",shimha.ganta@jda.com
+1000192,1000,1000738,Confirmed,On Time,1,1,433.41,433.41,"Monday, November 4, 2019",king.lot@jda.com
+1000196,1000,1000738,Confirmed,On Time,1,1,80.24,80.24,"Tuesday, January 21, 2020",what.even@jda.com
+100020405,1000,1000738,Confirmed,On Time,1,1,749.65,749.65,"Thursday, February 20, 2020",dinesh.ganta@jda.com
+100022272,1000,1000738,Confirmed,On Time,1,1,48.9,48.9,"Monday, March 2, 2020",jam.adm@jda.com
+100024291,1000,1000738,Confirmed,On Time,1,1,299.36,299.36,"Friday, September 6, 2019",adam.jill@jda.com
+100024291,1000,1000738,Confirmed,On Time,1,1,315.53,315.53,"Monday, March 2, 2020",dinesh.venkata@jda.com
+100024293,1000,1000738,Confirmed,On Time,1,1,494.86,494.86,"Friday, November 29, 2019",shimha.ganta@jda.com
+1000246,2004,1000738,Confirmed,On Time,1,1,204.32,204.32,"Friday, November 22, 2019",king.lot@jda.com
+1000258,2008,1000738,Confirmed,On Time,1,1,79.12,79.12,"Thursday, December 19, 2019",what.even@jda.com
+1000258,2012,1000738,Confirmed,On Time,1,1,83.39,83.39,"Tuesday, February 4, 2020",dinesh.ganta@jda.com
+1000258,2016,1000738,Confirmed,On Time,1,1,83.39,83.39,"Thursday, February 13, 2020",jam.adm@jda.com
+100026445,2020,1000738,Confirmed,On Time,1,1,461.98,461.98,"Friday, January 3, 2020",adam.jill@jda.com
+1000284,2024,1000738,Confirmed,On Time,1,1,18.85,18.85,"Tuesday, August 6, 2019",dinesh.venkata@jda.com
+1000284,2028,1000738,Confirmed,Delayed,1,1,18.85,18.85,"Wednesday, August 28, 2019",shimha.ganta@jda.com
+1000284,2032,1000738,Confirmed,Delayed,1,1,18.85,18.85,"Friday, September 6, 2019",king.lot@jda.com
+1000284,2036,1000738,Confirmed,Delayed,1,1,18.85,18.85,"Friday, October 11, 2019",what.even@jda.com
+1000284,2040,1000738,Confirmed,Delayed,1,1,18.85,18.85,"Wednesday, November 27, 2019",dinesh.ganta@jda.com
+1000284,2044,1000738,Confirmed,Delayed,1,1,19.87,19.87,"Monday, January 6, 2020",jam.adm@jda.com
+1000284,2048,1000738,Confirmed,Delayed,1,1,19.87,19.87,"Monday, February 17, 2020",adam.jill@jda.com
+1000284,2052,1000738,Confirmed,Delayed,1,1,19.87,19.87,"Friday, February 21, 2020",dinesh.venkata@jda.com
+1000305,2056,1000738,Confirmed,Delayed,1,1,695.13,695.13,"Wednesday, October 23, 2019",shimha.ganta@jda.com
+1000308,2060,1000738,Confirmed,Delayed,1,1,959.9,959.9,"Friday, August 16, 2019",king.lot@jda.com
+1000308,2064,1000738,Confirmed,Delayed,1,1,959.9,959.9,"Friday, August 23, 2019",what.even@jda.com
+100032532,2068,1000738,Confirmed,Delayed,1,1,567.27,567.27,"Wednesday, November 27, 2019",dinesh.ganta@jda.com
+100032539,2072,1000738,Open,Delayed,1,1,108.02,108.02,"Friday, December 20, 2019",jam.adm@jda.com
+1000353,2076,1000738,Open,Delayed,1,1,15.05,15.05,"Wednesday, October 9, 2019",adam.jill@jda.com
+1000353,2080,1000738,Open,Delayed,1,1,15.05,15.05,"Tuesday, January 7, 2020",dinesh.venkata@jda.com
+1000360,2084,1000738,Open,Delayed,1,1,7.46,7.46,"Friday, August 23, 2019",shimha.ganta@jda.com
+1000361,2088,1000738,Open,Delayed,1,1,6.99,6.99,"Friday, August 23, 2019",king.lot@jda.com
+1000361,2092,1000738,Open,Delayed,1,1,7.37,7.37,"Monday, January 20, 2020",what.even@jda.com
+100036297,2096,1000738,Open,Delayed,1,1,439.7,439.7,"Thursday, December 19, 2019",dinesh.ganta@jda.com
+1000363,2100,1000738,Open,Delayed,1,1,7.94,7.94,"Friday, February 14, 2020",jam.adm@jda.com
+1000369,2104,1000738,Open,Delayed,1,1,5.39,5.39,"Wednesday, October 23, 2019",adam.jill@jda.com
+100037380,2108,1000738,Open,Delayed,1,1,479.94,479.94,"Tuesday, August 6, 2019",dinesh.venkata@jda.com
+100037380,2112,1000738,Open,Delayed,1,1,479.94,479.94,"Friday, January 24, 2020",shimha.ganta@jda.com
+100037493,2116,1000738,Open,Delayed,1,1,2862.23,2862.23,"Friday, October 11, 2019",king.lot@jda.com
+100037493,2120,1000738,Open,On Time,1,1,3016.79,3016.79,"Monday, March 2, 2020",dinesh.ganta@jda.com
+100037494,2124,1000738,Open,On Time,1,1,2873.5,2873.5,"Monday, August 26, 2019",jam.adm@jda.com
+100037494,2128,1000738,Open,On Time,1,1,2873.5,2873.5,"Friday, September 27, 2019",adam.jill@jda.com
+100037767,2132,1000738,Open,On Time,1,1,81.94,81.94,"Wednesday, September 4, 2019",dinesh.venkata@jda.com
+100037767,2136,1000738,Open,On Time,1,1,82.43,82.43,"Friday, March 6, 2020",shimha.ganta@jda.com
+1000396,2140,1000738,Open,On Time,1,1,1.08,1.08,"Tuesday, December 17, 2019",king.lot@jda.com
+100040736,2144,1000738,Open,On Time,1,1,59.42,59.42,"Thursday, October 24, 2019",what.even@jda.com
+100040736,2148,1000738,Open,On Time,1,1,59.42,59.42,"Friday, November 8, 2019",dinesh.ganta@jda.com
+100040736,1000,1000738,Open,On Time,1,1,59.42,59.42,"Monday, February 3, 2020",jam.adm@jda.com
+100041775,1000,1000738,Open,On Time,1,1,75.18,75.18,"Friday, October 4, 2019",adam.jill@jda.com
+100041780,1000,1000738,Open,On Time,1,1,552.14,552.14,"Thursday, October 24, 2019",dinesh.venkata@jda.com
+1000424,1000,1000738,Open,On Time,1,1,60.98,60.98,"Friday, August 16, 2019",shimha.ganta@jda.com
+100042743,1000,1000738,Open,Delayed,1,1,107.88,107.88,"Monday, January 27, 2020",king.lot@jda.com
+100042771,1000,1000738,Open,Delayed,1,1,24.24,24.24,"Wednesday, February 12, 2020",what.even@jda.com
+100047171,1000,1000738,Open,Delayed,1,1,581.29,581.29,"Tuesday, February 11, 2020",dinesh.ganta@jda.com
+100048080,2030,1000738,Open,Delayed,1,1,734.02,734.02,"Friday, February 28, 2020",jam.adm@jda.com
+100049634,2040,1000738,Open,Delayed,1,1,128.1,128.1,"Monday, August 5, 2019",adam.jill@jda.com
+100049634,2050,1000738,Open,Delayed,1,1,128.1,128.1,"Friday, September 27, 2019",dinesh.venkata@jda.com
+100049634,2060,1000738,Open,Delayed,1,1,128.1,128.1,"Friday, October 18, 2019",shimha.ganta@jda.com
+100049634,2070,1000738,Open,Delayed,1,1,128.1,128.1,"Thursday, October 31, 2019",king.lot@jda.com
+100049634,2080,1000738,Open,Delayed,1,1,135.02,135.02,"Friday, March 6, 2020",what.even@jda.com
+1000536,2090,1000738,Open,Delayed,1,1,4.04,4.04,"Friday, November 15, 2019",dinesh.ganta@jda.com
+1000542,2100,1000738,Open,Delayed,1,1,555.5,555.5,"Thursday, October 31, 2019",jam.adm@jda.com
+100056517,2110,1000738,Open,Delayed,1,1,2.63,2.63,"Monday, October 21, 2019",adam.jill@jda.com
+100056519,2120,1000738,Open,Delayed,1,1,9.98,9.98,"Monday, September 23, 2019",dinesh.venkata@jda.com
+100056519,2130,1000738,Open,Delayed,1,1,9.98,9.98,"Monday, October 21, 2019",shimha.ganta@jda.com
+100056521,2140,1000738,Open,Delayed,1,1,365.44,365.44,"Thursday, January 2, 2020",king.lot@jda.com
+100056523,2150,1000738,Open,Delayed,1,1,396.68,396.68,"Thursday, October 3, 2019",what.even@jda.com
+100056524,2160,1000738,Open,Delayed,1,1,257.43,257.43,"Friday, October 18, 2019",dinesh.ganta@jda.com
+100056524,2170,1000738,Open,Delayed,1,1,257.43,257.43,"Monday, January 13, 2020",jam.adm@jda.com
+100056613,2180,1000738,Open,Delayed,1,1,248.98,248.98,"Friday, August 9, 2019",adam.jill@jda.com
+100056618,2190,1000738,Open,Delayed,1,1,94.48,94.48,"Thursday, December 26, 2019",dinesh.venkata@jda.com
+100056632,2200,1000738,Open,Delayed,1,1,104.72,104.72,"Wednesday, August 21, 2019",shimha.ganta@jda.com
+1000568,2210,1000738,Open,Delayed,1,1,597.82,597.82,"Monday, November 11, 2019",king.lot@jda.com
+1000568,2220,1000738,Open,Delayed,1,1,597.82,597.82,"Thursday, December 12, 2019",what.even@jda.com
+1000568,2230,1000738,Open,Delayed,1,1,597.82,597.82,"Monday, January 13, 2020",dinesh.ganta@jda.com
+1000568,2240,1000738,Open,Delayed,1,1,597.82,597.82,"Wednesday, February 5, 2020",jam.adm@jda.com
+1000568,2250,1000738,Open,Delayed,1,1,623.65,623.65,"Wednesday, February 26, 2020",adam.jill@jda.com
+100058587,2260,1000738,Open,Delayed,1,1,793.59,793.59,"Wednesday, February 12, 2020",dinesh.venkata@jda.com
+100058608,2270,1000738,Open,Delayed,1,1,10.88,10.88,"Monday, January 27, 2020",shimha.ganta@jda.com
+1000599,2280,1000738,Open,Delayed,1,1,452.17,452.17,"Monday, November 11, 2019",king.lot@jda.com
+1000599,2290,1000738,Open,Delayed,1,1,486.25,486.25,"Monday, January 13, 2020",what.even@jda.com
+100060776,2300,1000738,Open,Delayed,1,1,3554.12,3554.12,"Monday, September 30, 2019",dinesh.ganta@jda.com
+100061595,2310,1000738,Open,Delayed,1,1,156.52,156.52,"Tuesday, December 31, 2019",jam.adm@jda.com
+100067841,2320,1000738,Open,Delayed,1,1,8664.72,8664.72,"Friday, October 18, 2019",adam.jill@jda.com
+100067841,2330,1000738,Open,Delayed,1,1,8951.81,8951.81,"Friday, January 31, 2020",dinesh.venkata@jda.com
+100068407,2340,1000738,Open,Delayed,1,1,255.11,255.11,"Wednesday, February 5, 2020",shimha.ganta@jda.com
+100068411,2350,1000738,Open,Delayed,1,1,213.21,213.21,"Thursday, December 26, 2019",king.lot@jda.com
+100072219,2360,1000738,Open,Delayed,1,1,60.63,60.63,"Thursday, September 26, 2019",dinesh.ganta@gmail.com
+100072219,2370,1000738,Open,Delayed,1,1,60.63,60.63,"Monday, December 9, 2019",jam.adm@gmail.com
+1000743,2380,1000738,Open,Delayed,1,1,9.8,9.8,"Wednesday, October 23, 2019",adam.jill@gmail.com
+1000743,2390,1000738,Open,Delayed,1,1,11.11,11.11,"Wednesday, October 30, 2019",henry.venkata@gmail.com
+1000743,2400,1000738,Open,Delayed,1,1,11.11,11.11,"Tuesday, November 19, 2019",ads.ganta@gmail.com
+1000743,2410,1000738,Open,Delayed,1,1,10.33,10.33,"Thursday, January 16, 2020",king.lot@gmail.com
+1000748,2420,1000738,Open,Delayed,1,1,52.35,52.35,"Friday, August 16, 2019",what.even@gmail.com
+100077503,2430,1000738,Open,Delayed,1,1,434.87,434.87,"Tuesday, November 19, 2019",dinesh.ganta@gmail.com
+100077503,2440,1000738,Open,Delayed,1,1,434.87,434.87,"Monday, February 3, 2020",jam.adm@gmail.com
+100077511,2450,1000738,Open,Delayed,1,1,48.65,48.65,"Thursday, December 26, 2019",henry.jill@gmail.com
+100079802,2460,1000738,Open,Delayed,1,1,406.82,406.82,"Thursday, October 31, 2019",dinesh.henry@gmail.com
+100082741,2470,1000738,Open,Delayed,1,1,789.71,789.71,"Monday, October 14, 2019",henry.ganta@gmail.com
+100085003,2480,1000738,Open,Delayed,1,1,6740.7,6740.7,"Monday, January 20, 2020",henry.lot@gmail.com
+100087608,2490,1000738,Open,Delayed,1,1,56.52,56.52,"Thursday, December 19, 2019",henry.even@gmail.com
+100087664,2500,1000738,Open,Delayed,1,1,64.52,64.52,"Tuesday, September 24, 2019",dinesh.ganta@gmail.com
+100087664,2510,1000738,Open,Delayed,1,1,64.52,64.52,"Friday, October 11, 2019",adsad.adm@gmail.com
+100087664,2520,1000738,Open,Delayed,1,1,70.98,70.98,"Monday, November 25, 2019",adam.jill@gmail.com
+100087793,2530,1000738,Open,Delayed,1,1,20.79,20.79,"Friday, August 30, 2019",dinesh.venkata@gmail.com
+100087794,2540,1000738,Open,Delayed,1,1,111.32,111.32,"Friday, January 17, 2020",shimha.ganta@gmail.com
+100087794,2550,1000738,Open,Delayed,1,1,112.43,112.43,"Monday, February 17, 2020",king.lot@gmail.com
+100087796,2560,1000738,Open,Delayed,1,1,38.87,38.87,"Monday, November 11, 2019",asdasd.even@gmail.com
+1000893,2570,1000738,Open,Delayed,1,1,142.27,142.27,"Friday, August 16, 2019",dinesh.ganta@gmail.com
+1000893,2580,1000738,Open,Delayed,1,1,142.27,142.27,"Wednesday, August 28, 2019",jam.adm@gmail.com
+1000893,2590,1000738,Open,Delayed,1,1,142.27,142.27,"Monday, September 16, 2019",asd.jill@gmail.com
+1000893,2600,1000738,Open,Delayed,1,1,142.27,142.27,"Friday, September 20, 2019",henry.venkata@gmail.com
+1000893,2610,1000738,Open,Delayed,1,1,142.27,142.27,"Friday, October 4, 2019",shimha.ganta@gmail.com
+1000893,2620,1000738,Open,Delayed,1,1,142.27,142.27,"Friday, October 18, 2019",king.lot@gmail.com
+1000893,2630,1000738,Open,Delayed,1,1,142.27,142.27,"Friday, October 25, 2019",exhu.wdas@gmail.com
+1000893,2640,1000738,Open,Delayed,1,1,142.27,142.27,"Monday, December 30, 2019",dinesh.ganta@gmail.com
+1000893,2650,1000738,Open,Delayed,1,1,149.95,149.95,"Tuesday, January 14, 2020",jam.adm@gmail.com
+1000893,2660,1000738,Open,Delayed,1,1,149.95,149.95,"Thursday, January 16, 2020",adam.jill@gmail.com
+1000893,2670,1000738,Open,Delayed,1,1,142.27,142.27,"Monday, January 20, 2020",dinesh.venkata@gmail.com
+1000893,2680,1000738,Open,Delayed,1,1,149.95,149.95,"Tuesday, January 21, 2020",shimha.ganta@gmail.com
+1000893,2690,1000738,Open,Delayed,1,1,149.95,149.95,"Monday, February 10, 2020",king.lot@gmail.com
+1000893,2700,1000738,Open,Delayed,1,1,149.95,149.95,"Tuesday, February 18, 2020",what.asd@gmail.com
+1000893,2710,1000738,Open,Delayed,1,1,149.95,149.95,"Monday, March 16, 2020",dinesh.ganta@gmail.com
+1000903,2720,1000738,Open,Delayed,1,1,312.8,312.8,"Wednesday, December 25, 2019",jam.adm@gmail.com
+1000906,2730,1000738,Open,Delayed,1,1,310.34,310.34,"Friday, August 30, 2019",adam.jill@gmail.com
+1000906,2740,1000738,Open,Delayed,1,1,310.34,310.34,"Tuesday, September 10, 2019",dinesh.venkata@gmail.com
+1000906,2750,1000738,Open,Delayed,1,1,310.34,310.34,"Monday, December 9, 2019",shimha.ganta@gmail.com
+1000909,2760,1000738,Open,Delayed,1,1,529.87,529.87,"Friday, August 9, 2019",king.lot@gmail.com
+1000909,2770,1000738,Open,Delayed,1,1,529.87,529.87,"Friday, December 6, 2019",what.even@gmail.com
+1000909,2780,1000738,Open,Delayed,1,1,529.87,529.87,"Friday, December 20, 2019",dinesh.ganta@gmail.com
+1000909,2790,1000738,Open,Delayed,1,1,558.48,558.48,"Friday, February 28, 2020",casad.adm@gmail.com
+100091737,2800,1000738,Open,Delayed,1,1,1005.25,1005.25,"Monday, January 13, 2020",adam.jill@gmail.com
+1000919,2810,1000738,Open,Delayed,1,1,232.98,232.98,"Friday, November 22, 2019",dinesh.venkata@gmail.com
+1000919,2820,1000738,Open,Delayed,1,1,232.98,232.98,"Friday, December 20, 2019",shimha.ganta@gmail.com
+1000919,2830,1000738,Open,Delayed,1,1,232.98,232.98,"Monday, January 6, 2020",king.lot@gmail.com
+100092524,2840,1000738,Open,Delayed,1,1,35.87,35.87,"Thursday, February 13, 2020",dinesh.ganta@gmail.com
+1000948,2850,1000738,Open,Delayed,1,1,39.92,39.92,"Tuesday, September 10, 2019",jam.adm@gmail.com
+1000962,2860,1000738,Open,Delayed,1,1,416.64,416.64,"Wednesday, August 7, 2019",adam.jill@gmail.com
+1000962,2870,1000738,Open,Delayed,1,1,416.64,416.64,"Tuesday, September 10, 2019",dinesh.venkata@gmail.com
+1000962,2880,1000738,Open,Delayed,1,1,439.14,439.14,"Monday, January 27, 2020",shimha.ganta@gmail.com
+1000962,2890,1000738,Open,Delayed,1,1,439.14,439.14,"Monday, February 3, 2020",king.lot@gmail.com
+1000962,2900,1000738,Open,Delayed,1,1,439.14,439.14,"Wednesday, March 11, 2020",what.even@gmail.com
+1000969,2910,1000738,Open,Delayed,1,1,505.49,505.49,"Friday, September 27, 2019",dinesh.ganta@gmail.com
+1000973,2920,1000738,Open,Delayed,1,1,229.32,229.32,"Friday, September 27, 2019",jam.adm@gmail.com
+1000973,2930,1000738,Open,Delayed,1,1,229.32,229.32,"Friday, December 6, 2019",adam.jill@gmail.com
+1001023,2940,1000738,Open,Delayed,1,1,33.54,33.54,"Friday, August 16, 2019",dinesh.venkata@gmail.com
+1001024,2950,1000738,Open,Delayed,1,1,9.62,9.62,"Thursday, February 13, 2020",shimha.ganta@gmail.com
+1001025,2960,1000738,Open,Delayed,1,1,225.28,225.28,"Friday, September 27, 2019",king.lot@gmail.com
+1001051,2970,1000738,Open,Delayed,1,1,92.65,92.65,"Monday, February 3, 2020",what.even@gmail.com
+1001059,2980,1000738,Open,Delayed,1,1,8.89,8.89,"Friday, August 2, 2019",dinesh.ganta@gmail.com
+1001133,2990,1000738,Open,Delayed,1,1,84.08,84.08,"Friday, September 20, 2019",jam.adm@gmail.com
+1001138,3000,1000738,Open,Delayed,1,1,21.04,21.04,"Monday, February 3, 2020",adam.jill@gmail.com
+1001138,3010,1000738,Open,Delayed,1,1,21.04,21.04,"Monday, March 2, 2020",dinesh.venkata@gmail.com
+1001154,3020,1000738,Open,Delayed,1,1,15.7,15.7,"Monday, January 13, 2020",shimha.ganta@gmail.com
+1001154,3030,1000738,Open,Delayed,1,1,15.7,15.7,"Thursday, February 13, 2020",king.lot@gmail.com
+1001162,3040,1000738,Open,Delayed,1,1,59.14,59.14,"Friday, February 7, 2020",what.even@gmail.com
+1001162,3050,1000738,Open,Delayed,1,1,77.1,77.1,"Monday, March 2, 2020",dinesh.ganta@gmail.com
+1001209,3060,1000738,Open,Delayed,1,1,528.94,528.94,"Tuesday, February 18, 2020",jam.adm@gmail.com
+1001216,3070,1000738,Open,Delayed,1,1,21.41,21.41,"Thursday, December 19, 2019",adam.jill@gmail.com
+1001404,3080,1000738,Open,Delayed,1,1,17.9,17.9,"Tuesday, February 18, 2020",dinesh.venkata@gmail.com
+1001406,3090,1000738,Open,Delayed,1,1,54.5,54.5,"Tuesday, February 18, 2020",shimha.ganta@gmail.com
+1001431,3100,1000738,Open,Delayed,1,1,456.16,456.16,"Wednesday, October 9, 2019",king.lot@gmail.com
+1001431,3110,1000738,Open,Delayed,1,1,456.16,456.16,"Monday, February 10, 2020",what.even@gmail.com
+1001441,3120,1000738,Open,Delayed,1,1,20.01,20.01,"Friday, November 8, 2019",dinesh.ganta@gmail.com
+1001442,3130,1000738,Open,Delayed,1,1,126.85,126.85,"Friday, January 10, 2020",jam.adm@gmail.com
+1001450,3140,1000738,Open,Delayed,1,1,17.19,17.19,"Monday, January 6, 2020",adam.jill@gmail.com
+1001456,3150,1000738,Open,Delayed,1,1,222.7,222.7,"Friday, September 20, 2019",dinesh.venkata@gmail.com
+1001703,3160,1000738,Open,Delayed,1,1,1069.14,1069.14,"Friday, January 24, 2020",shimha.ganta@gmail.com
+1001703,3170,1000738,Open,Delayed,1,1,1056.1,1056.1,"Friday, February 14, 2020",king.lot@gmail.com
+1001725,3180,1000738,Open,Delayed,1,1,54.24,54.24,"Wednesday, August 28, 2019",what.even@gmail.com
+1001725,3190,1000738,Open,Delayed,1,1,54.24,54.24,"Tuesday, January 7, 2020",dinesh.ganta@gmail.com
+1001855,3200,1000738,Open,Delayed,1,1,49.25,49.25,"Monday, December 23, 2019",jam.adm@gmail.com
+1001855,3210,1000738,Open,Delayed,1,1,51.91,51.91,"Monday, January 13, 2020",adam.jill@gmail.com
+1001857,3220,1000738,Open,Delayed,1,1,63,63,"Friday, March 6, 2020",dinesh.venkata@gmail.com
+1002125,3230,1000738,Open,Delayed,1,1,449.25,449.25,"Thursday, October 24, 2019",shimha.ganta@gmail.com
+1002174,3240,1000738,Open,Delayed,1,1,18.25,18.25,"Friday, November 22, 2019",king.lot@gmail.com
+1002178,3250,1000738,Open,Delayed,1,1,237.82,237.82,"Friday, August 2, 2019",what.even@gmail.com
+1002218,3260,1000738,Open,Delayed,1,1,29.54,29.54,"Friday, December 6, 2019",dinesh.ganta@gmail.com
+1002365,3270,1000738,Open,Delayed,1,1,89.39,89.39,"Monday, March 2, 2020",jam.adm@gmail.com
+1002370,3280,1000738,Open,Delayed,1,1,51.69,51.69,"Monday, September 23, 2019",adam.jill@gmail.com
+1002370,3290,1000738,Open,Delayed,1,1,51.69,51.69,"Friday, November 8, 2019",dinesh.venkata@gmail.com
+1002370,3300,1000738,Open,Delayed,1,1,51.69,51.69,"Friday, November 15, 2019",shimha.ganta@gmail.com
+1002410,3310,1000738,Open,Delayed,1,1,152.99,152.99,"Monday, November 25, 2019",king.lot@gmail.com
+1002410,3320,1000738,Open,Delayed,1,1,152.99,152.99,"Thursday, December 12, 2019",dinesh.ganta@gmail.com
+1002482,3330,1000738,Open,Delayed,1,1,14.02,14.02,"Monday, January 6, 2020",jam.adm@gmail.com
+1002551,3340,1000738,Open,Delayed,1,1,8.84,8.84,"Wednesday, August 28, 2019",adam.jill@gmail.com
+1002707,3350,1000738,Open,Delayed,1,1,207.41,207.41,"Wednesday, August 7, 2019",henry.venkata@gmail.com
+1002707,3360,1000738,Open,Delayed,1,1,207.41,207.41,"Wednesday, August 28, 2019",ads.ganta@gmail.com
+1002707,3370,1000738,Open,Delayed,1,1,207.41,207.41,"Tuesday, September 10, 2019",king.lot@gmail.com
+1002707,3380,1000738,Open,Delayed,1,1,207.41,207.41,"Friday, September 20, 2019",what.even@gmail.com
+1002707,3390,1000738,Open,Delayed,1,1,207.41,207.41,"Friday, November 15, 2019",dinesh.ganta@gmail.com
+1002707,3400,1000738,Open,Delayed,1,1,207.41,207.41,"Monday, November 18, 2019",jam.adm@gmail.com
+1002707,3410,1000738,Open,Delayed,1,1,207.41,207.41,"Friday, November 22, 2019",henry.jill@gmail.com
+1002707,3420,1000738,Open,Delayed,1,1,207.41,207.41,"Tuesday, December 17, 2019",dinesh.henry@gmail.com
+1002707,3430,1000738,Open,Delayed,1,1,207.41,207.41,"Friday, December 20, 2019",henry.ganta@gmail.com
+1002707,3440,1000738,Open,Delayed,1,1,207.41,207.41,"Monday, January 6, 2020",henry.lot@gmail.com
+1002707,3450,1000738,Open,Delayed,1,1,207.41,207.41,"Saturday, January 25, 2020",henry.even@gmail.com
+1002707,3460,1000738,Open,Delayed,1,1,218.61,218.61,"Monday, January 27, 2020",dinesh.ganta@gmail.com
+1002707,3470,1000738,Open,Delayed,1,1,218.61,218.61,"Monday, February 3, 2020",adsad.adm@gmail.com
+1002707,3480,1000738,Open,Delayed,1,1,218.61,218.61,"Friday, February 14, 2020",adam.jill@gmail.com
+1002707,3490,1000738,Open,Delayed,1,1,218.61,218.61,"Wednesday, March 11, 2020",dinesh.venkata@gmail.com
+1002719,3500,1000738,Open,Delayed,1,1,318.38,318.38,"Friday, August 30, 2019",shimha.ganta@gmail.com
+1002756,3510,1000738,Open,Delayed,1,1,26.76,26.76,"Friday, December 20, 2019",king.lot@gmail.com
+1002803,3520,1000738,Open,Delayed,1,1,8.24,8.24,"Friday, January 24, 2020",asdasd.even@gmail.com
+1002860,3530,1000738,Open,Delayed,1,1,284.39,284.39,"Friday, August 23, 2019",dinesh.ganta@gmail.com
+1002860,3540,1000738,Open,Delayed,1,1,284.39,284.39,"Friday, September 27, 2019",jam.adm@gmail.com
+1002860,3550,1000738,Open,Delayed,1,1,284.39,284.39,"Friday, November 8, 2019",asd.jill@gmail.com
+1002860,3560,1000738,Open,Delayed,1,1,284.39,284.39,"Tuesday, December 17, 2019",henry.venkata@gmail.com
+1002860,3570,1000738,Open,Delayed,1,1,284.39,284.39,"Monday, January 6, 2020",shimha.ganta@gmail.com
+1002903,3580,1000738,Open,Delayed,1,1,8.03,8.03,"Friday, September 20, 2019",king.lot@gmail.com
+1002903,3590,1000738,Open,Delayed,1,1,8.38,8.38,"Monday, February 3, 2020",exhu.wdas@gmail.com
+1002910,3600,1000738,Open,Delayed,1,1,9.3,9.3,"Monday, March 2, 2020",dinesh.ganta@gmail.com
+1002923,3610,1000738,Open,Delayed,1,1,11.58,11.58,"Friday, August 16, 2019",jam.adm@gmail.com
+1002923,3620,1000738,Open,Delayed,1,1,11.58,11.58,"Friday, August 30, 2019",adam.jill@gmail.com
+1002923,3630,1000738,Open,Delayed,1,1,11.58,11.58,"Monday, February 3, 2020",dinesh.venkata@gmail.com
+1002927,3640,1000738,Open,Delayed,1,1,11.58,11.58,"Friday, August 16, 2019",shimha.ganta@gmail.com
+1002927,3650,1000738,Open,Delayed,1,1,11.58,11.58,"Friday, August 30, 2019",king.lot@gmail.com
+1002927,3660,1000738,Open,Delayed,1,1,11.58,11.58,"Monday, February 3, 2020",what.asd@gmail.com
+1003004,3670,1000738,Open,Delayed,1,1,18.01,18.01,"Wednesday, December 11, 2019",dinesh.ganta@gmail.com
+1003025,3680,1000738,Open,Delayed,1,1,10.92,10.92,"Friday, August 30, 2019",jam.adm@gmail.com
+1003025,3690,1000738,Open,Delayed,1,1,10.92,10.92,"Monday, October 28, 2019",adam.jill@gmail.com
+1003029,3700,1000738,Open,Delayed,1,1,8.94,8.94,"Friday, August 16, 2019",dinesh.venkata@gmail.com
+1003089,3710,1000738,Open,Delayed,1,1,99.64,99.64,"Friday, September 27, 2019",shimha.ganta@gmail.com
+1003168,3720,1000738,Open,Delayed,1,1,8.08,8.08,"Monday, January 13, 2020",king.lot@gmail.com
+1003243,3730,1000738,Open,Delayed,1,1,303.53,303.53,"Friday, August 2, 2019",what.even@gmail.com
+1003299,3740,1000738,Open,Delayed,1,1,276.47,276.47,"Tuesday, February 18, 2020",dinesh.ganta@gmail.com
+1003451,3750,1000738,Open,Delayed,1,1,158.96,158.96,"Friday, October 11, 2019",casad.adm@gmail.com
+1003451,3760,1000738,Open,Delayed,1,1,179.89,179.89,"Monday, February 10, 2020",adam.jill@gmail.com
+1003500,3770,1000738,Open,Delayed,1,1,167.81,167.81,"Friday, August 16, 2019",dinesh.venkata@gmail.com
+1003620,3780,1000738,Open,Delayed,1,1,277.83,277.83,"Friday, August 16, 2019",shimha.ganta@gmail.com
+1003620,3790,1000738,Open,Delayed,1,1,277.83,277.83,"Friday, August 23, 2019",king.lot@gmail.com
+1003620,3800,1000738,Open,Delayed,1,1,277.83,277.83,"Friday, September 20, 2019",dinesh.ganta@gmail.com
+1003620,3810,1000738,Open,Delayed,1,1,277.83,277.83,"Friday, December 6, 2019",jam.adm@gmail.com
+1003620,3820,1000738,Open,Delayed,1,1,306.4,306.4,"Thursday, February 20, 2020",adam.jill@gmail.com
+1003725,3830,1000738,Open,Delayed,1,1,114.65,114.65,"Thursday, December 19, 2019",dinesh.venkata@gmail.com
+1003824,3840,1000738,Open,Delayed,1,1,77.4,77.4,"Thursday, November 28, 2019",shimha.ganta@gmail.com
+1003854,3850,1000738,Open,Delayed,1,1,9.21,9.21,"Friday, January 10, 2020",king.lot@gmail.com
+1003925,3860,1000738,Open,Delayed,1,1,27.57,27.57,"Thursday, December 19, 2019",what.even@gmail.com
+1003925,3870,1000738,Open,Delayed,1,1,27.57,27.57,"Monday, February 3, 2020",dinesh.ganta@gmail.com
+1003925,3880,1000738,Open,Delayed,1,1,27.57,27.57,"Thursday, February 20, 2020",jam.adm@gmail.com
+1003934,3890,1000738,Open,Delayed,1,1,16.25,16.25,"Thursday, October 31, 2019",adam.jill@gmail.com
+1003951,3900,1000738,Open,Delayed,1,1,18.69,18.69,"Friday, October 11, 2019",dinesh.venkata@gmail.com
+1003997,3910,1000738,Confirmed,Delayed,1,1,409.88,409.88,"Wednesday, August 7, 2019",shimha.ganta@gmail.com
+1003997,3920,1000738,Confirmed,Delayed,1,1,409.88,409.88,"Wednesday, September 4, 2019",king.lot@gmail.com
+1003997,3930,1000738,Confirmed,Delayed,1,1,409.88,409.88,"Friday, November 22, 2019",what.even@gmail.com
+1004243,3940,1000738,Confirmed,Delayed,1,1,6.96,6.96,"Tuesday, August 13, 2019",dinesh.ganta@gmail.com
+1004243,3950,1000738,Confirmed,Delayed,1,1,6.96,6.96,"Friday, October 18, 2019",jam.adm@gmail.com
+1004243,3960,1000738,Confirmed,Delayed,1,1,5.38,5.38,"Monday, March 2, 2020",adam.jill@gmail.com
+1004256,3970,1000738,Confirmed,Delayed,1,1,85.23,85.23,"Monday, November 18, 2019",dinesh.venkata@gmail.com
+1004298,3980,1000738,Confirmed,Delayed,1,1,14.48,14.48,"Tuesday, February 18, 2020",shimha.ganta@gmail.com
+1004373,3990,1000738,Confirmed,Delayed,1,1,292.97,292.97,"Friday, February 14, 2020",king.lot@gmail.com
+1004412,4000,1000738,Confirmed,Delayed,1,1,51.57,51.57,"Wednesday, December 11, 2019",what.even@gmail.com
+1004429,4010,1000738,Confirmed,Delayed,1,1,78.28,78.28,"Friday, October 18, 2019",dinesh.ganta@gmail.com
+1004440,4020,1000738,Confirmed,Delayed,1,1,15.04,15.04,"Monday, January 20, 2020",jam.adm@gmail.com
+1004448,4030,1000738,Confirmed,Delayed,1,1,78.43,78.43,"Friday, October 4, 2019",adam.jill@gmail.com
+1004450,4040,1000738,Confirmed,Delayed,1,1,41.68,41.68,"Friday, August 16, 2019",dinesh.venkata@gmail.com
+1004453,4050,1000738,Confirmed,Delayed,1,1,123.42,123.42,"Thursday, October 24, 2019",shimha.ganta@gmail.com
+1004490,4060,1000738,Confirmed,Delayed,1,1,3.41,3.41,"Friday, November 15, 2019",king.lot@gmail.com
+1004490,4070,1000738,Confirmed,Delayed,1,1,3.59,3.59,"Monday, January 13, 2020",what.even@gmail.com
+1004550,4080,1000738,Confirmed,Delayed,1,1,35.51,35.51,"Friday, November 8, 2019",dinesh.ganta@gmail.com
+1004567,4090,1000738,Confirmed,Delayed,1,1,34.42,34.42,"Friday, October 11, 2019",jam.adm@gmail.com
+1004595,4100,1000738,Confirmed,Delayed,1,1,22.98,22.98,"Thursday, November 28, 2019",adam.jill@gmail.com
+1004728,4110,1000738,Confirmed,Delayed,1,1,36.73,36.73,"Friday, August 16, 2019",dinesh.venkata@gmail.com
+1004776,4120,1000738,Confirmed,Delayed,1,1,9.55,9.55,"Monday, November 25, 2019",shimha.ganta@gmail.com
+1004776,4130,1000738,Confirmed,Delayed,1,1,9.55,9.55,"Tuesday, November 26, 2019",king.lot@gmail.com
+1004886,4140,1000738,Confirmed,Delayed,1,1,11.19,11.19,"Friday, February 14, 2020",what.even@gmail.com
+1004887,4150,1000738,Confirmed,Delayed,1,1,10.78,10.78,"Thursday, February 20, 2020",dinesh.ganta@gmail.com
+1005024,4160,1000738,Confirmed,Delayed,1,1,73.15,73.15,"Monday, February 24, 2020",jam.adm@gmail.com
+1005026,4170,1000738,Confirmed,Delayed,1,1,13.12,13.12,"Monday, October 28, 2019",adam.jill@gmail.com
+1005071,4180,1000738,Confirmed,Delayed,1,1,284.65,284.65,"Monday, February 17, 2020",dinesh.venkata@gmail.com
+1005074,4190,1000738,Confirmed,Delayed,1,1,417.24,417.24,"Wednesday, August 28, 2019",shimha.ganta@gmail.com
+1005074,4200,1000738,Confirmed,Delayed,1,1,417.24,417.24,"Monday, October 28, 2019",king.lot@gmail.com
+1005105,4210,1000738,Confirmed,Delayed,1,1,305.29,305.29,"Friday, August 16, 2019",what.even@gmail.com
+1005105,4220,1000738,Confirmed,Delayed,1,1,305.29,305.29,"Friday, September 20, 2019",dinesh.ganta@gmail.com
+1005105,4230,1000738,Confirmed,Delayed,1,1,352.7,352.7,"Friday, January 10, 2020",jam.adm@gmail.com
+1005111,4240,1000738,Confirmed,Delayed,1,1,5.44,5.44,"Friday, December 6, 2019",adam.jill@gmail.com
+1005111,4250,1000738,Confirmed,Delayed,1,1,5.73,5.73,"Friday, January 31, 2020",dinesh.venkata@gmail.com
+1005111,4260,1000738,Open,Delayed,1,1,5.73,5.73,"Tuesday, February 11, 2020",shimha.ganta@gmail.com
+1005138,4270,1000738,Open,Delayed,1,1,11.99,11.99,"Saturday, January 25, 2020",king.lot@gmail.com
+1005155,4280,1000738,Open,Delayed,1,1,15.06,15.06,"Monday, November 4, 2019",dinesh.ganta@hotmail.com
+1005173,4290,1000738,Open,Delayed,1,1,8.03,8.03,"Friday, August 30, 2019",jam.adm@hotmail.com
+1005173,4300,1000738,Open,Delayed,1,1,8.03,8.03,"Thursday, October 24, 2019",adam.jill@hotmail.com
+1005174,4310,1000738,Open,Delayed,1,1,8.38,8.38,"Wednesday, October 23, 2019",henry.venkata@hotmail.com
+1005198,4320,1000738,Open,Delayed,1,1,8.82,8.82,"Monday, February 3, 2020",ads.ganta@hotmail.com
+1005213,4330,1000738,Open,Delayed,1,1,440,440,"Wednesday, August 7, 2019",king.lot@hotmail.com
+1005213,4340,1000738,Open,Delayed,1,1,440,440,"Wednesday, August 28, 2019",what.even@hotmail.com
+1005213,4350,1000738,Open,Delayed,1,1,440,440,"Monday, September 9, 2019",dinesh.ganta@hotmail.com
+1005213,4360,1000738,Open,Delayed,1,1,440,440,"Wednesday, October 23, 2019",jam.adm@hotmail.com
+1005213,4370,1000738,Open,Delayed,1,1,440,440,"Tuesday, November 19, 2019",henry.jill@hotmail.com
+1005213,4380,1000738,Open,Delayed,1,1,440,440,"Wednesday, November 27, 2019",dinesh.henry@hotmail.com
+1005213,4390,1000738,Open,Delayed,1,1,463.76,463.76,"Monday, February 10, 2020",henry.ganta@hotmail.com
+1005215,4400,1000738,Open,Delayed,1,1,19.71,19.71,"Saturday, March 7, 2020",henry.lot@hotmail.com
+1005261,4410,1000738,Open,Delayed,1,1,10.9,10.9,"Friday, September 27, 2019",henry.even@hotmail.com
+1005261,4420,1000738,Open,Delayed,1,1,11.35,11.35,"Monday, February 10, 2020",dinesh.ganta@hotmail.com
+1005309,4430,1000738,Open,Delayed,1,1,12.72,12.72,"Monday, November 4, 2019",adsad.adm@hotmail.com
+1005309,4440,1000738,Open,Delayed,1,1,14.44,14.44,"Saturday, January 25, 2020",adam.jill@hotmail.com
+1005309,4450,1000738,Open,Delayed,1,1,14.44,14.44,"Saturday, March 7, 2020",dinesh.venkata@hotmail.com
+1005333,4460,1000738,Open,Delayed,1,1,34.6,34.6,"Friday, February 21, 2020",shimha.ganta@hotmail.com
+1005435,4470,1000738,Open,Delayed,1,1,351.71,351.71,"Friday, August 16, 2019",king.lot@hotmail.com
+1005435,4480,1000738,Open,Delayed,1,1,370.7,370.7,"Monday, January 13, 2020",asdasd.even@hotmail.com
+1005679,4490,1000738,Open,Delayed,1,1,8.31,8.31,"Wednesday, August 7, 2019",dinesh.ganta@hotmail.com
+1005701,4500,1000738,Open,Delayed,1,1,66.04,66.04,"Wednesday, August 28, 2019",jam.adm@hotmail.com
+1005701,4510,1000738,Open,Delayed,1,1,69.61,69.61,"Monday, February 10, 2020",asd.jill@hotmail.com
+1005704,4520,1000738,Open,Delayed,1,1,9.2,9.2,"Friday, January 31, 2020",henry.venkata@hotmail.com
+1005709,4530,1000738,Open,Delayed,1,1,323.04,323.04,"Friday, December 27, 2019",shimha.ganta@hotmail.com
+1005714,4540,1000738,Open,Delayed,1,1,4.53,4.53,"Friday, August 16, 2019",king.lot@hotmail.com
+1005714,4550,1000738,Open,Delayed,1,1,4.53,4.53,"Wednesday, September 11, 2019",exhu.wdas@hotmail.com
+1005714,4560,1000738,Open,Delayed,1,1,4.53,4.53,"Tuesday, September 24, 2019",dinesh.ganta@hotmail.com
+1005714,4570,1000738,Open,Delayed,1,1,4.53,4.53,"Wednesday, October 9, 2019",jam.adm@hotmail.com
+1005714,4580,1000738,Open,Delayed,1,1,4.53,4.53,"Monday, October 21, 2019",adam.jill@hotmail.com
+1005714,4590,1000738,Open,Delayed,1,1,4.53,4.53,"Monday, November 4, 2019",dinesh.venkata@hotmail.com
+1005714,4600,1000738,Open,Delayed,1,1,4.53,4.53,"Monday, December 2, 2019",shimha.ganta@hotmail.com
+1005714,4610,1000738,Open,Delayed,1,1,4.53,4.53,"Wednesday, January 8, 2020",king.lot@hotmail.com
+1005714,4620,1000738,Open,Delayed,1,1,4.77,4.77,"Thursday, February 20, 2020",what.asd@hotmail.com
+1005759,4630,1000738,Open,Delayed,1,1,14.67,14.67,"Saturday, January 25, 2020",dinesh.ganta@hotmail.com
+1005815,4640,1000738,Open,Delayed,1,1,3.47,3.47,"Tuesday, August 6, 2019",jam.adm@hotmail.com
+1005815,4650,1000738,Open,Delayed,1,1,3.47,3.47,"Monday, August 26, 2019",adam.jill@hotmail.com
+1005815,4660,1000738,Open,Delayed,1,1,3.47,3.47,"Wednesday, October 9, 2019",dinesh.venkata@hotmail.com
+1005815,4670,1000738,Open,Delayed,1,1,3.47,3.47,"Wednesday, October 30, 2019",shimha.ganta@hotmail.com
+1005815,4680,1000738,Open,Delayed,1,1,3.47,3.47,"Tuesday, December 17, 2019",king.lot@hotmail.com
+1005815,4690,1000738,Open,Delayed,1,1,3.47,3.47,"Friday, January 24, 2020",what.even@hotmail.com
+1005815,4700,1000738,Open,Delayed,1,1,3.47,3.47,"Monday, February 3, 2020",dinesh.ganta@hotmail.com
+1005815,4710,1000738,Open,Delayed,1,1,3.47,3.47,"Friday, March 6, 2020",casad.adm@hotmail.com
+1005970,4720,1000738,Open,Delayed,1,1,65.92,65.92,"Friday, February 14, 2020",adam.jill@hotmail.com
+1005993,4730,1000738,Open,Delayed,1,1,24.07,24.07,"Monday, September 16, 2019",dinesh.venkata@hotmail.com
+1005996,4740,1000738,Open,Delayed,1,1,28.86,28.86,"Friday, August 2, 2019",shimha.ganta@hotmail.com
+1005996,4750,1000738,Open,Delayed,1,1,28.86,28.86,"Friday, August 16, 2019",king.lot@hotmail.com
+1006082,4760,1000738,Open,Delayed,1,1,31.15,31.15,"Friday, September 13, 2019",dinesh.ganta@hotmail.com
+1006133,4770,1000738,Open,Delayed,1,1,18.53,18.53,"Friday, September 20, 2019",jam.adm@hotmail.com
+1006169,4780,1000738,Open,Delayed,1,1,77.34,77.34,"Wednesday, August 28, 2019",adam.jill@hotmail.com
+1006182,4790,1000738,Open,Delayed,1,1,8.23,8.23,"Monday, January 13, 2020",dinesh.venkata@hotmail.com
+1006187,4800,1000738,Open,Delayed,1,1,24.86,24.86,"Friday, August 16, 2019",shimha.ganta@hotmail.com
+1006187,4810,1000738,Open,Delayed,1,1,26.2,26.2,"Monday, January 13, 2020",king.lot@hotmail.com
+1006190,4820,1000738,Open,Delayed,1,1,15.06,15.06,"Friday, September 27, 2019",what.even@hotmail.com
+1006194,4830,1000738,Open,Delayed,1,1,16.89,16.89,"Friday, October 11, 2019",dinesh.ganta@hotmail.com
+1006194,4840,1000738,Open,Delayed,1,1,16.89,16.89,"Wednesday, October 23, 2019",jam.adm@hotmail.com
+1006276,4850,1000738,Open,Delayed,1,1,246.44,246.44,"Monday, December 9, 2019",adam.jill@hotmail.com
+1006393,4860,1000738,Open,Delayed,1,1,247.3,247.3,"Friday, August 16, 2019",dinesh.venkata@hotmail.com
+1006393,4870,1000738,Open,Delayed,1,1,247.3,247.3,"Friday, August 23, 2019",shimha.ganta@hotmail.com
+1006393,4880,1000738,Open,Delayed,1,1,247.3,247.3,"Tuesday, September 10, 2019",king.lot@hotmail.com
+1006393,4890,1000738,Open,Delayed,1,1,247.3,247.3,"Thursday, January 2, 2020",what.even@hotmail.com
+1006393,4900,1000738,Open,Delayed,1,1,260.65,260.65,"Monday, February 10, 2020",dinesh.ganta@hotmail.com
+1006397,4910,1000738,Open,Delayed,1,1,354.09,354.09,"Friday, August 23, 2019",jam.adm@hotmail.com
+1006579,4920,1000738,Open,Delayed,1,1,4.66,4.66,"Monday, November 4, 2019",adam.jill@hotmail.com
+1006579,4930,1000738,Open,Delayed,1,1,4.66,4.66,"Friday, November 15, 2019",dinesh.venkata@hotmail.com
+1006594,4940,1000738,Open,Delayed,1,1,14.43,14.43,"Monday, September 23, 2019",shimha.ganta@hotmail.com
+1006643,4950,1000738,Open,Delayed,1,1,4.78,4.78,"Friday, August 2, 2019",king.lot@hotmail.com
+1006643,4960,1000738,Open,Delayed,1,1,4.78,4.78,"Wednesday, October 9, 2019",what.even@hotmail.com
+1006643,4970,1000738,Open,Delayed,1,1,5.04,5.04,"Monday, February 3, 2020",dinesh.ganta@hotmail.com
+1006666,4980,1000738,Open,Delayed,1,1,11.77,11.77,"Friday, February 21, 2020",jam.adm@hotmail.com
+1006682,4990,1000738,Open,Delayed,1,1,5.69,5.69,"Thursday, January 2, 2020",adam.jill@hotmail.com
+1006693,5000,1000738,Open,Delayed,1,1,11.57,11.57,"Friday, August 16, 2019",dinesh.venkata@hotmail.com
+1006693,5010,1000738,Open,Delayed,1,1,11.57,11.57,"Friday, September 20, 2019",shimha.ganta@hotmail.com
+1006725,5020,1000738,Open,Delayed,1,1,3.95,3.95,"Wednesday, August 14, 2019",king.lot@hotmail.com
+1006725,5030,1000738,Open,Delayed,1,1,3.95,3.95,"Friday, August 16, 2019",what.even@hotmail.com
+1006725,5040,1000738,Open,Delayed,1,1,3.95,3.95,"Tuesday, September 3, 2019",dinesh.ganta@hotmail.com
+1006729,5050,1000738,Open,Delayed,1,1,4.43,4.43,"Friday, August 23, 2019",jam.adm@hotmail.com
+1006729,5060,1000738,Open,Delayed,1,1,4.52,4.52,"Monday, October 28, 2019",adam.jill@hotmail.com
+1006729,5070,1000738,Open,Delayed,1,1,4.52,4.52,"Monday, November 4, 2019",dinesh.venkata@hotmail.com
+1006729,5080,1000738,Open,Delayed,1,1,4.52,4.52,"Monday, December 2, 2019",shimha.ganta@hotmail.com
+1006729,5090,1000738,Open,Delayed,1,1,4.52,4.52,"Thursday, December 26, 2019",king.lot@hotmail.com
+1006729,5100,1000738,Open,Delayed,1,1,4.52,4.52,"Friday, January 3, 2020",what.even@hotmail.com
+1006729,5110,1000738,Open,Delayed,1,1,4.67,4.67,"Thursday, January 23, 2020",dinesh.ganta@hotmail.com
+1006729,5120,1000738,Open,Delayed,1,1,4.67,4.67,"Wednesday, February 5, 2020",jam.adm@hotmail.com
+1006731,5130,1000738,Open,On Time,1,1,1.6,1.6,"Monday, September 16, 2019",adam.jill@hotmail.com
+1006731,5140,1000738,Open,On Time,1,1,1.6,1.6,"Wednesday, October 23, 2019",dinesh.venkata@hotmail.com
+1006731,5150,1000738,Open,On Time,1,1,1.6,1.6,"Monday, November 11, 2019",shimha.ganta@hotmail.com
+1006731,5160,1000738,Open,On Time,1,1,1.6,1.6,"Friday, November 22, 2019",king.lot@hotmail.com
+1006751,5170,1000738,Open,On Time,1,1,97.27,97.27,"Thursday, October 24, 2019",what.even@hotmail.com
+1006751,5180,1000738,Open,On Time,1,1,97.27,97.27,"Wednesday, December 11, 2019",dinesh.ganta@hotmail.com
+1006751,5190,1000738,Open,On Time,1,1,97.27,97.27,"Tuesday, December 17, 2019",jam.adm@hotmail.com
+1006751,5200,1000738,Open,On Time,1,1,97.27,97.27,"Thursday, December 26, 2019",adam.jill@hotmail.com
+1006751,5210,1000738,Open,On Time,1,1,97.27,97.27,"Monday, February 3, 2020",dinesh.venkata@hotmail.com
+1006775,5220,1000738,Open,On Time,1,1,60,60,"Friday, August 2, 2019",shimha.ganta@hotmail.com
+1006775,5230,1000738,Open,On Time,1,1,60,60,"Friday, October 4, 2019",king.lot@hotmail.com
+1006775,5240,1000738,Open,On Time,1,1,60,60,"Friday, December 13, 2019",dinesh.ganta@jda.com
+1006775,5250,1000738,Open,On Time,1,1,60,60,"Wednesday, January 8, 2020",jam.adm@jda.com
+1006775,5260,1000738,Open,On Time,1,1,60,60,"Tuesday, January 21, 2020",adam.jill@jda.com
+1006775,5270,1000738,Open,On Time,1,1,63.24,63.24,"Monday, February 10, 2020",dinesh.venkata@jda.com
+1006782,5280,1000738,Open,On Time,1,1,238.94,238.94,"Friday, November 22, 2019",shimha.ganta@jda.com
+1006787,5290,1000738,Open,On Time,1,1,46.06,46.06,"Thursday, December 19, 2019",king.lot@jda.com
+1006787,5300,1000738,Open,On Time,1,1,48.48,48.48,"Saturday, March 7, 2020",what.even@jda.com
+1006868,5310,1000738,Open,On Time,1,1,42.99,42.99,"Wednesday, September 4, 2019",dinesh.ganta@jda.com
+1006868,5320,1000738,Open,On Time,1,1,42.99,42.99,"Friday, September 20, 2019",jam.adm@jda.com
+1006868,5330,1000738,Open,On Time,1,1,43.39,43.39,"Monday, November 4, 2019",adam.jill@jda.com
+1006868,5340,1000738,Open,On Time,1,1,45.31,45.31,"Monday, January 6, 2020",dinesh.venkata@jda.com
+1006873,5350,1000738,Open,On Time,1,1,18.97,18.97,"Monday, August 26, 2019",shimha.ganta@jda.com
+1006873,5360,1000738,Open,On Time,1,1,18.97,18.97,"Monday, February 24, 2020",king.lot@jda.com
+1006883,5370,1000738,Open,On Time,1,1,342.68,342.68,"Monday, February 3, 2020",what.even@jda.com
+1007039,5380,1000738,Open,On Time,1,1,859.98,859.98,"Monday, August 26, 2019",dinesh.ganta@jda.com
+1007039,5390,1000738,Open,On Time,1,1,906.42,906.42,"Wednesday, March 4, 2020",jam.adm@jda.com
+1007048,5400,1000738,Open,On Time,1,1,10.56,10.56,"Saturday, March 7, 2020",adam.jill@jda.com
+1007050,5410,1000738,Open,On Time,1,1,16.51,16.51,"Monday, October 28, 2019",dinesh.venkata@jda.com
+1007069,5420,1000738,Open,On Time,1,1,19.28,19.28,"Monday, November 4, 2019",shimha.ganta@jda.com
+1007071,5430,1000738,Open,On Time,1,1,15.33,15.33,"Friday, November 22, 2019",king.lot@jda.com
+1007071,5440,1000738,Open,On Time,1,1,16.16,16.16,"Monday, March 2, 2020",what.even@jda.com
+1007074,5450,1000738,Open,On Time,1,1,4.8,4.8,"Friday, August 30, 2019",dinesh.ganta@jda.com
+1007176,5460,1000738,Open,On Time,1,1,11.38,11.38,"Friday, September 6, 2019",jam.adm@jda.com
+1007176,5470,1000738,Open,On Time,1,1,11.38,11.38,"Friday, September 20, 2019",adam.jill@jda.com
+1007176,5480,1000738,Open,On Time,1,1,11.38,11.38,"Friday, November 15, 2019",dinesh.venkata@jda.com
+1007176,5490,1000738,Open,On Time,1,1,11.38,11.38,"Friday, November 22, 2019",shimha.ganta@jda.com
+1007176,5500,1000738,Open,On Time,1,1,11.99,11.99,"Wednesday, February 5, 2020",king.lot@jda.com
+1007187,5510,1000738,Open,On Time,1,1,4.63,4.63,"Friday, December 6, 2019",what.even@jda.com
+1007204,5520,1000738,Open,On Time,1,1,9.24,9.24,"Wednesday, September 11, 2019",dinesh.ganta@jda.com
+1007204,5530,1000738,Open,On Time,1,1,9.74,9.74,"Friday, January 24, 2020",jam.adm@jda.com
+1007204,5540,1000738,Open,On Time,1,1,9.74,9.74,"Monday, March 23, 2020",adam.jill@jda.com
+1007205,5550,1000738,Open,On Time,1,1,98.59,98.59,"Monday, September 16, 2019",dinesh.venkata@jda.com
+1007205,5560,1000738,Open,On Time,1,1,98.59,98.59,"Friday, November 15, 2019",shimha.ganta@jda.com
+1007210,5570,1000738,Open,On Time,1,1,100.84,100.84,"Wednesday, November 27, 2019",king.lot@jda.com
+1007226,5580,1000738,Open,On Time,1,1,20.44,20.44,"Tuesday, January 7, 2020",what.even@jda.com
+1007243,5590,1000738,Open,On Time,1,1,21.58,21.58,"Monday, September 23, 2019",dinesh.ganta@jda.com
+1007243,5600,1000738,Open,On Time,1,1,21.58,21.58,"Monday, November 4, 2019",jam.adm@jda.com
+1007302,5610,1000738,Open,On Time,1,1,29.78,29.78,"Monday, November 4, 2019",adam.jill@jda.com
+1007302,5620,1000738,Open,On Time,1,1,29.78,29.78,"Friday, November 22, 2019",dinesh.venkata@jda.com
+1007360,5630,1000738,Open,On Time,1,1,212.04,212.04,"Monday, October 21, 2019",shimha.ganta@jda.com
+1007365,5640,1000738,Open,On Time,1,1,2.18,2.18,"Monday, September 23, 2019",king.lot@jda.com
+1007365,5650,1000738,Open,On Time,1,1,2.3,2.3,"Friday, February 14, 2020",what.even@jda.com
+1007372,5660,1000738,Open,On Time,1,1,22.28,22.28,"Thursday, October 24, 2019",dinesh.ganta@jda.com
+1007372,5670,1000738,Open,On Time,1,1,22.28,22.28,"Friday, November 1, 2019",jam.adm@jda.com
+1007372,1000,1000738,Open,On Time,1,1,22.28,22.28,"Friday, November 8, 2019",adam.jill@jda.com
+1007372,1000,1000738,Open,On Time,1,1,22.28,22.28,"Thursday, December 26, 2019",dinesh.venkata@jda.com
+1007372,1000,1000738,Open,On Time,1,1,22.28,22.28,"Friday, January 10, 2020",shimha.ganta@jda.com
+1007372,1000,1000738,Open,On Time,1,1,22.28,22.28,"Monday, January 20, 2020",king.lot@jda.com
+1007461,1000,1000738,Open,On Time,1,1,3.67,3.67,"Wednesday, December 11, 2019",what.even@jda.com
+1007461,1000,1000738,Open,On Time,1,1,4.5,4.5,"Tuesday, January 7, 2020",dinesh.ganta@jda.com
+1007479,1000,1000738,Open,On Time,1,1,16.93,16.93,"Monday, January 20, 2020",jam.adm@jda.com
+1007489,1000,1000738,Open,On Time,1,1,31.27,31.27,"Friday, August 23, 2019",adam.jill@jda.com
+1007489,1000,1000738,Open,On Time,1,1,31.27,31.27,"Friday, November 22, 2019",dinesh.venkata@jda.com
+1007515,1000,1000738,Open,On Time,1,1,6.59,6.59,"Monday, August 26, 2019",shimha.ganta@jda.com
+1007515,1000,1000738,Open,On Time,1,1,6.59,6.59,"Thursday, October 24, 2019",king.lot@jda.com
+1007515,1000,1000738,Open,On Time,1,1,6.95,6.95,"Friday, February 14, 2020",what.even@jda.com
+1007733,1000,1000738,Open,On Time,1,1,16.2,16.2,"Wednesday, August 7, 2019",dinesh.ganta@jda.com
+1007733,1000,1000738,Open,On Time,1,1,16.2,16.2,"Monday, September 16, 2019",jam.adm@jda.com
+1007733,1000,1000738,Open,On Time,1,1,16.2,16.2,"Friday, October 18, 2019",adam.jill@jda.com
+1007733,1000,1000738,Open,On Time,1,1,16.2,16.2,"Friday, November 22, 2019",dinesh.venkata@jda.com
+1007733,1000,1000738,Open,On Time,1,1,16.2,16.2,"Tuesday, December 17, 2019",shimha.ganta@jda.com
+1007733,1000,1000738,Open,On Time,1,1,17.07,17.07,"Monday, February 10, 2020",king.lot@jda.com
+1007801,1000,1000738,Open,On Time,1,1,3.52,3.52,"Thursday, February 20, 2020",what.even@jda.com
+1007803,1000,1000738,Open,On Time,1,1,4.46,4.46,"Saturday, March 7, 2020",dinesh.ganta@jda.com
+1007858,1000,1000738,Open,On Time,1,1,7.36,7.36,"Wednesday, November 27, 2019",jam.adm@jda.com
+1007876,1000,1000738,Open,On Time,1,1,65.45,65.45,"Monday, February 10, 2020",adam.jill@jda.com
+1007876,1000,1000738,Open,On Time,1,1,65.45,65.45,"Friday, February 14, 2020",dinesh.venkata@jda.com
+1007876,1000,1000738,Open,On Time,1,1,65.45,65.45,"Saturday, March 7, 2020",shimha.ganta@jda.com
+1007942,1000,1000738,Open,On Time,1,1,162.2,162.2,"Friday, August 16, 2019",king.lot@jda.com
+1007942,1000,1000738,Open,On Time,1,1,162.2,162.2,"Friday, August 23, 2019",what.even@jda.com
+1007942,1000,1000738,Open,On Time,1,1,162.2,162.2,"Wednesday, September 4, 2019",dinesh.ganta@jda.com
+1007942,1000,1000738,Open,On Time,1,1,162.2,162.2,"Friday, October 11, 2019",jam.adm@jda.com
+1007942,1000,1000738,Open,On Time,1,1,162.2,162.2,"Wednesday, January 8, 2020",adam.jill@jda.com
+1007942,1000,1000738,Open,On Time,1,1,170.96,170.96,"Monday, January 13, 2020",dinesh.venkata@jda.com
+1008017,1000,1000738,Open,On Time,1,1,647.76,647.76,"Wednesday, October 9, 2019",shimha.ganta@jda.com
+1008017,1000,1000738,Open,On Time,1,1,688.91,688.91,"Monday, February 10, 2020",king.lot@jda.com
+1008084,1000,1000738,Open,On Time,1,1,3.48,3.48,"Friday, September 20, 2019",what.even@jda.com
+1008111,1000,1000738,Open,Delayed,1,1,31.09,31.09,"Wednesday, October 23, 2019",dinesh.ganta@jda.com
+1008111,1000,1000738,Open,Delayed,1,1,32.77,32.77,"Friday, January 24, 2020",jam.adm@jda.com
+1008357,1000,1000738,Open,Delayed,1,1,1992.91,1992.91,"Monday, January 6, 2020",adam.jill@jda.com

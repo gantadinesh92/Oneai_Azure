@@ -1,0 +1,2 @@
+﻿customer_item_name,ship_to_site_name,ship_from_site_name,state,exception_status,sum_Order_Qty,sum_Open_Qty,sum_Order Amount,sum_Open_Order_Amt,need_by_date,email
+211264,10119636,1014,Received,null,1,0,481.76,0,"Monday, November 4, 2019",dinesh.ganta@jda.com

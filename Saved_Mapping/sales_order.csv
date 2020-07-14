@@ -1,0 +1,11 @@
+,Column,Value,Predicted_Values,Confidence_Score
+0,SIN_X,1200710,supplier_item_name,97.56
+1,ST_X,10119636,ship_to_site_name,98.65
+2,SF_X,5300,ship_from_site_name,98.83
+4,E_X,On Time,exception_status,25.89
+3,S_X,Closed,exception_status,25.64
+6,SOA_X,0,sum_Open_Order_Amount,35.31
+7,SOOA_X,0,sum_Open_Order_Amount,35.31
+5,SOQ_X,1,sum_Open_Order_Amount,35.3
+9,M_X,dinesh.ganta@jda.com,need_by_date,25.53
+8,D_X,"Monday, December 30, 2019",need_by_date,25.39

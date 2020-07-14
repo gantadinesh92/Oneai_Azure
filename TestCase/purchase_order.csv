@@ -1,0 +1,2 @@
+customer_item_name,ship_to_site_name,ship_from_site_name,state,exception_status,sum_Order_Qty,sum_Open_Qty,sum_Order Amount,sum_Open_Order_Amt,need_by_date,email
+1000010,1000,1000738,Confirmed,On Time,1,1,255.18,255.18,"Friday, October 4, 2019",dinesh.ganta@jda.com

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+			<title>Xpaths and Predicted Values</title>
+		</head>
+		<body>
+			<center>
+				<h1>
+					<div style="text-align:center">
+						<font color="blue">Suggested Result</font>
+					</div>
+				</h1>
+
+			{% for table in tables1 %}
+
+						{{ table|safe }}
+			{% endfor %}
+			</center>
+
+			<center>
+				<h1>
+					<div style="text-align:center">
+						<font color="blue">Prediction Result</font>
+					</div>
+				</h1>
+
+			{% for table in tables %}
+
+						{{ table|safe }}
+			{% endfor %}
+			</center>
+		</body>
+	</html>
